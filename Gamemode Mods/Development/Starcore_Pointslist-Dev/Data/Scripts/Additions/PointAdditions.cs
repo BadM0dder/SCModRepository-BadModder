@@ -514,8 +514,9 @@ Cat_Darth40kWeapons@20;
 				ParticleWhip@400;
 				NovaCannon@800;
 				MacroCannon@200;
+    				LanceBattery@400;
 				LanceLightBattery@280;
-				LanceBattery@650;
+				LanceHeavyBattery@650;
 				GothicTorp@300;
 
 				
@@ -687,10 +688,10 @@ Cat_UnusedOrOutated_Subtypes@24;
 
 
 				Caster_Accelerator_0@5;
-				Caster_Accelerator_90@10;
+				Caster_Accelerator_90@20;
 				Caster_Feeder@10;
 				Caster_FocusLens@50;
-				Caster_Reactor@250;
+				Caster_Reactor@125;
 
 
 			
